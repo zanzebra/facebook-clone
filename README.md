@@ -1,2 +1,2 @@
 # facebook-clone
-this an html css javascript prototype of facebook
+This an html css javascript prototype of facebook
